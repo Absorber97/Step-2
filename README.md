@@ -2,6 +2,9 @@
 
 This project implements semantic search across multiple document types using vector embeddings and ChromaDB. It supports searching through PDFs, YouTube transcripts, and web content with advanced filtering capabilities.
 
+Step 1: https://github.com/Absorber97/RAG-Document-Loader
+Step 2 (This Project): https://github.com/Absorber97/Vectorstores-Embedding
+
 ## Overview
 
 The project demonstrates advanced document processing and semantic search capabilities by:
