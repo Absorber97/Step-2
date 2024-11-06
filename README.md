@@ -4,6 +4,7 @@ This project implements semantic search across multiple document types using vec
 
 - Step 1: https://github.com/Absorber97/RAG-Document-Loader
 - Step 2 (This Project): https://github.com/Absorber97/Vectorstores-Embedding
+- Step 3: https://github.com/Absorber97/RAG-Chat-System
 
 ## Overview
 
